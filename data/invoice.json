@@ -1,23 +1,5 @@
 [
   {
-    "id": 1,
-    "status": "paid",
-    "description": "laptop",
-    "date": "2024-05-16T10:32:40.282Z"
-  },
-  {
-    "id": 2,
-    "status": "paid",
-    "description": "drive",
-    "date": "2023-05-16T10:32:40.282Z"
-  },
-  {
-    "id": 3,
-    "status": "paid",
-    "description": "mobile",
-    "date": "2022-05-16T10:32:40.282Z"
-  },
-  {
     "id": 4,
     "status": "pending",
     "description": "motorcycle",
